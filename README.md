@@ -14,7 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-using-css-flexbox-5XCkyZqfBn)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-profile-links-using-css-flexbox-slYuQuflBE)
 - [Live Site URL](https://frontendmentor-social-links-profile-self.vercel.app/)
 
 ## My process
