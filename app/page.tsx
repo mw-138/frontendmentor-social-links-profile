@@ -13,11 +13,11 @@ export default function Home() {
           alt="avatar"
           className="rounded-full mb-6"
         />
-        <h1 className="font-[700] text-[22px]">Jessica Randall</h1>
+        <h1 className="font-[700] text-[22px] text-white">Jessica Randall</h1>
         <h2 className="text-green font-[600] text-[13px]">
           London, United Kingdom
         </h2>
-        <p className="font-[400] text-[14px] my-6">
+        <p className="font-[400] text-[14px] my-6 text-white">
           &quot;Front-end developer and avid reader.&quot;
         </p>
         <ul className="w-full space-y-4">
@@ -30,7 +30,7 @@ export default function Home() {
           ].map((element: string, index: number) => (
             <li
               key={index}
-              className="bg-grey-700 text-center p-3 font-[600] text-[14px] rounded-md hover:bg-green hover:text-grey-900 cursor-pointer transition-colors"
+              className="bg-grey-700 text-center p-3 font-[600] text-[14px] rounded-md hover:bg-green text-white hover:text-grey-900 cursor-pointer transition-colors"
             >
               {element}
             </li>
