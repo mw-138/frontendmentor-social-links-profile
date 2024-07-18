@@ -18,7 +18,7 @@ export default function Home() {
           London, United Kingdom
         </h2>
         <p className="font-[400] text-[14px] my-6">
-          "Front-end developer and avid reader."
+          &quot;Front-end developer and avid reader.&quot;
         </p>
         <ul className="w-full space-y-4">
           {[
